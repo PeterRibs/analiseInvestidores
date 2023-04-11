@@ -1,4 +1,4 @@
-# Projet Analise de Investidores
+# Projeto Análise de Investidores
 
 Nesse projeto trabalhamos com dados fictícios de investidores.
 
@@ -22,4 +22,4 @@ Investimento:
 - **Ativo01, Ativo02, Ativo03, Ativo04, Ativo05, Ativo06, Ativo07** : O quanto de dinheiro o investidor colocou em cada ativo
 - **Nota1, Nota2** : O quanto o investidor está satisfeito com nossa empresa (2 avaliações)
 
-No notebook, lemos as tabelas de dados, verificamos dados faltantes e manipulamos a tabela para no final analizar os dados de acordo com as perguntas propostas. 
+No notebook, fizemos a leitura das tabelas de dados, verificamos dados faltantes e manipulamos a tabela para analisar os dados de acordo com as perguntas propostas. 
